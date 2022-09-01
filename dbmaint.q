@@ -1,3 +1,5 @@
+//Comments to check for CMTP changes
+
 / kdb+ partitioned database maintenance
 \d .os
 WIN:.z.o in`w32`w64
